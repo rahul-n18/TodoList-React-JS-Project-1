@@ -1,3 +1,9 @@
+# Simple Todo App
+<img width="503" alt="Screenshot 2024-01-11 at 8 38 26 AM" src="https://github.com/rahul-n18/TodoList-React-JS/assets/64891042/46f92d41-1a73-43d1-b00f-48ca49672ce2">
+
+<img width="1149" alt="Screenshot 2024-01-11 at 8 38 48 AM" src="https://github.com/rahul-n18/TodoList-React-JS/assets/64891042/8b155ff5-726b-4337-8019-a8859ef562b5">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
